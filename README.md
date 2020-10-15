@@ -9,6 +9,8 @@ In this project we add some more functionality listed below .
  Beep when a face is detector.
 
 
-Requirement 
+Requirement
+
 Python 
+
 openCV
